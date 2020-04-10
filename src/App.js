@@ -49,8 +49,8 @@ function App(props) {
                     <Create />
                   </Route>
                   <Route path="/campaign">
-                    <Welcome />
-                    {/* <Campaign /> */}
+                    {/* <Welcome /> */}
+                    <Campaign />
                   </Route>
                   <Route path="/search">
                     <Search />
